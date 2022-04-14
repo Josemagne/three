@@ -1,0 +1,23 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "Training THREE.js fo Syntomera.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josemagne/three.git"
+  },
+  "keywords": [],
+  "author": "Josemagne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josemagne/three/issues"
+  },
+  "homepage": "https://github.com/Josemagne/three#readme",
+  "dependencies": {
+    "three": "^0.139.2"
+  }
+}

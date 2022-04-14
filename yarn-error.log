@@ -1,0 +1,46 @@
+Arguments: 
+  /home/jedo/.nvm/versions/node/v16.13.0/bin/node /home/jedo/.nvm/versions/node/v16.13.0/bin/yarn add three
+
+PATH: 
+  /home/jedo/.nvm/versions/node/v16.13.0/bin:/home/jedo/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jedo/.fzf/bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.13.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.npmjs.org
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "three",
+    "version": "1.0.0",
+    "description": "Training THREE.js fo Syntomera.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Josemagne/three.git"
+    },
+    "keywords": [],
+    "author": "Josemagne",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Josemagne/three/issues"
+    },
+    "homepage": "https://github.com/Josemagne/three#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
